@@ -51,7 +51,7 @@ If you own or are aware of a server that has not been tested, I kindly request y
 | The Lord of the Rings: The Battle for Middle-earth II | [--](##)                                      | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Majesty: Gold HD                                      | [25990](https://steamdb.info/app/25990)       | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Medal of Honor: Allied Assualt                        | [--](##)                                      | GameSpy v1  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Medal of Honor: Breakthrough                          | [--](##)                                      | GameSpy v1  | :white_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: |
+| Medal of Honor: Breakthrough                          | [--](##)                                      | GameSpy v1  | :white_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Not sure if not supported or just couldn't find the query port
 | Medal of Honor: Spearhead                             | [--](##)                                      | GameSpy v1  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Medieval II: Total War                                | [--](##)                                      | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Microsoft Flight Simulator X: Steam Edition           | [314160](https://steamdb.info/app/314160)     | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
