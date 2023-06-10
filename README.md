@@ -44,7 +44,7 @@ If you own or are aware of a server that has not been tested, I kindly request y
 | Daikatana                                             | [242980](https://steamdb.info/app/242980)     | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Dungeon Lords: Steam Edition                          | [271760](https://steamdb.info/app/271760)     | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Empire Earth II                                       | [--](##)                                      | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
-| Halo: Combat Evolved                                  | [--](##)                                      | GameSpy v1  | :white_check_mark: | :white_check_mark: | :white_check_mark: | Will display an extra player with something like "1372590084,1091"
+| Halo: Combat Evolved                                  | [--](##)                                      | GameSpy v1  | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
 | James Bond: Nightfire                                 | [--](##)                                      | GameSpy v1  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Land of the Dead: Road to Fiddler's Green             | [--](##)                                      | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | The Lord of the Rings: The Battle for Middle-earth    | [--](##)                                      | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
