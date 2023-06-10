@@ -9,7 +9,7 @@ This will eventually be used as a Query Module for [ServerQuery](https://github.
  - GameSpy v2 & v3
 
 # Supported Games
-Unfortunately, there is no central repository for all the games that were supported by GameSpy (and with the closure of GameSpy, most games moved away from using it anyway). Nevertheless, I have made an effort to include as many games as possible that have used GameSpy at some point during their lifetime.
+Unfortunately, there isn't a centralized repository containing a comprehensive list of games that were supported by GameSpy. Furthermore, with the closure of GameSpy, the majority of games have transitioned away from using it. Nonetheless, I have diligently included as many games as possible that have utilized GameSpy at some stage in their lifespan. However, if further investigation reveals that a particular game has migrated to a protocol completely unrelated to GameSpy v1, v2, or v3, it may be removed from the "Supported Games" list or relocated to a different section.
 
 Please note that this list is not exhaustive, and some of the items mentioned may not utilize GameSpy v1 at all. Instead, they might use GameSpy v2 or v3, or moved to a different protocol entirely.
 
