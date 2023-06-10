@@ -9,9 +9,19 @@ This will eventually be used as a Query Module for [ServerQuery](https://github.
  - GameSpy v2 & v3
 
 # Supported Games
-This is not a complete list of supported games, items in this list may not use GameSpy v1 at all (but may use GameSpy v2 or v3)
+Unfortunately, there is no central repository for all the games that were supported by GameSpy (and with the closure of GameSpy, most games moved away from using it anyway). Nevertheless, I have made an effort to include as many games as possible that have used GameSpy at some point during their lifetime.
 
-If you own or know of a server that has not been tested, please test the script out, and update the server. I will greatly appreciate you!
+Please note that this list is not exhaustive, and some of the items mentioned may not utilize GameSpy v1 at all. Instead, they might use GameSpy v2 or v3, or moved to a different protocol entirely.
+
+To ensure the accuracy of this list, I have personally gone through each entry and attempted to find public servers. I have also made an effort to verify if the servers were queryable. However, it was a challenging task as finding query ports for certain games proved difficult, and some servers even change their query ports. Which means that until I have the time and resources to set up a dedicated server for thoroughly building and testing each game server, this list may remain incomplete.
+
+I understand that this limitation might be disappointing to some users, and I apologize for any inconvenience caused. However, I will continue to update the list regularly as new information becomes available, and I encourage the community to contribute by testing and adding any servers that have not been included.
+
+Therefore, it is possible that some games on this list, which have not been tested, may no longer function with GameSpy v1.
+
+If you own or are aware of a server that has not been tested, I kindly request you to try out the script and update the list of supported games. Your contribution would be greatly appreciated!
+
+*NOTE:* The script does allow users to query the Rules of the server but, at least with the servers I was able to test, just sent back the server info, so the column has been excluded from this list
 
 |                  Game                                 |                    App ID                     |     API     |       Tested       |    Server Info     |    Player Info     |       Notes        |
 |-------------------------------------------------------|:---------------------------------------------:|:-----------:|:------------------:|:------------------:|:------------------:|:------------------:|
