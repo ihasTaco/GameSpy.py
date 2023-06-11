@@ -112,7 +112,7 @@ If you own or are aware of a server that has not been tested, I kindly request y
 | Arma 2                                                | [33900](https://steamdb.info/app/33900)       | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Area 51 (2005)                                        | [--](##)                                      | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Battlefield 1942                                      | [--](##)                                      | GameSpy v1  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Battlefield 2                                         | [--](##)                                      | GameSpy v3  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
+| Battlefield 2                                         | [--](##)                                      | GameSpy v2  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Battlefield 2142                                      | [--](##)                                      | GameSpy v2 or v3  | :x:          | :heavy_minus_sign: | :heavy_minus_sign: |
 | Battlefield Vietnam                                   | [--](##)                                      | GameSpy v1  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | Blitzkrieg Anthology                                  | [313480](https://steamdb.info/app/313480)     | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
