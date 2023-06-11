@@ -8,6 +8,21 @@ Check out [ServerQuery](https://github.com/ihasTaco/ServerQuery) here.
  * Support for various popular game titles (see [Supported Games](#Suported_Games))
  * Simple and easy-to-use API for integrating into your own projects
 
+## Installation
+
+1. Clone the repository
+```
+git clone https://github.com/ihasTaco/Python-GameSpy.git
+```
+
+2. Navigate to the project directory:
+
+```
+cd Python-GameSpy
+```
+
+That's it! There are no other dependencies outside of socket!
+
 ## Usage
 There is a demo.py script that you can use to test the script, but here is the usage anyways
 
