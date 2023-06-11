@@ -158,8 +158,8 @@ If you own or are aware of a server that has not been tested, I kindly request y
 | S.T.A.L.K.E.R.: Call of Pripyat                       | [41700](https://steamdb.info/app/41700)       | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Star Wars: Battlefront                                | [1237980](https://steamdb.info/app/1237980)   | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Star Wars: Battlefront II                             | [1237950](https://steamdb.info/app/1237950)   | GameSpy v1  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| Star Trek: Elite Force II                             | [--](##)                                      | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Star Wars: Empire at War - Gold Pack                  | [32470](https://steamdb.info/app/32470)       | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
+| Star Trek: Elite Force II                             | [--](##)                                      | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Star Trek: Starfleet Command II - Empires at War      | [--](##)                                      | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Star Trek: Starfleet Command III                      | [--](##)                                      | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Stronghold 2: Steam Edition                           | [40960](https://steamdb.info/app/40960)       | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
