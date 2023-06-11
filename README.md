@@ -1,14 +1,80 @@
-# Python-GameSpy
-A simple script to query GameSpy 1 servers made in python<br>
-This will eventually be used as a Query Module for [ServerQuery](https://github.com/ihasTaco/ServerQuery)
+# ServerQuery - GameSpy Query Module
 
-# Coming Soon
- - Readme
- - an actual script
- - documentation
- - GameSpy v2 & v3
+A Python script that allows you to query game servers using the GameSpy protocol. This script can be used as a standalone query tool or integrated into your own projects as a query module.<br><br>
+Check out [ServerQuery](https://github.com/ihasTaco/ServerQuery) here.
+## Features
+ * Query game servers using the GameSpy v1 protocol (v2 and v3 coming soon!)
+ * Retrieve server information such as name, map, player count, and more
+ * Support for various popular game titles (see [Supported Games](#Suported_Games))
+ * Simple and easy-to-use API for integrating into your own projects
 
-# Supported Games
+## Usage
+There is a demo.py script that you can use to test the script, but here is the usage anyways
+
+1. Import the script
+```
+import GameSpy
+```
+2. Create an instance of the GameSpy Query class:
+```
+instance = GameSpy.Query()
+```
+3. Specify the IP and query port of the server you want to query
+```
+server_ip = 'xxx.xxx.xxx.xxx' 
+server_port = 12345          
+```
+4. Query the server
+
+```
+server_info = instance.info(server_ip, server_port) # Get server info
+server_player = instance.players(server_ip, server_port) # Get player info
+server_rules = instance.rules(server_ip, server_port) # Get server rules (NOTE: for all the servers I tested, this will just send back server info)
+```
+
+5. use the server info!
+
+```
+# Server Info
+# instance.info() will send back a dictionary
+
+for key, value in server_info.items():
+    print(f"{key}: {value}")
+
+try:
+    print(f"\nServer Name: {server_info['hostname']}")
+    print(f"Server Map: {server_info['mapname']}")
+    print(f"Server Max Players: {server_info['maxplayers']}")
+    print(f"Server Players: {server_info['numplayers']}")
+except KeyError:
+    pass
+    
+# Server Players
+# instance.players() will send back a list
+
+for player in server_players:
+    print(f"{player_index}. {player}")
+    player_index += 1
+
+try:
+    print(f"\nPlayer #1: {server_players[0]}")
+    print(f"Player #2: {server_players[1]}")
+    print(f"Player #3: {server_players[2]}")
+    print(f"Player #4: {server_players[3]}")
+except IndexError:
+    pass
+    
+# Server Rules
+# instance.rules() will send back a dictionary
+
+for key, value in server_info.items():
+    print(f"{key}: {value}")
+
+print(f"\nFree Camera: {server_rules['free_camera']}")
+```
+
+<a id="Suported_Games"></a>
+## Supported Games
 Unfortunately, there isn't a centralized repository containing a comprehensive list of games that were supported by GameSpy. Furthermore, with the closure of GameSpy, the majority of games have transitioned away from using it. Nonetheless, I have diligently included as many games as possible that have utilized GameSpy at some stage in their lifespan. However, if further investigation reveals that a particular game has migrated to a protocol completely unrelated to GameSpy v1, v2, or v3, it may be removed from the "Supported Games" list or relocated to a different section.
 
 Please note that this list is not exhaustive, and some of the items mentioned may not utilize GameSpy v1 at all. Instead, they might use GameSpy v2 or v3, or moved to a different protocol entirely.
@@ -96,3 +162,8 @@ If you own or are aware of a server that has not been tested, I kindly request y
 | Warhammer 40,000: Winter Assault                      | [9310](https://steamdb.info/app/9310)         | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Warhammer 40,000: Dark Crusade                        | [4580](https://steamdb.info/app/4580)         | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
 | Warhammer 40,000: Soulstorm                           | [9450](https://steamdb.info/app/9450)         | GameSpy v1  | :x:                | :heavy_minus_sign: | :heavy_minus_sign: |
+
+If you encounter any issues or would like to contribute to the project, please feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MPL License.
